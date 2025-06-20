@@ -14,14 +14,14 @@ A beginner-friendly command-line currency converter built using Python and the O
 
 ## Sample Output:
 ***--- WELCOME TO THE CURRENCY CONVERTER ---***
-Example currencies: USD, INR, EUR, JPY, AUD, CAD, and so on...
+- Example currencies: USD, INR, EUR, JPY, AUD, CAD, and so on...
 
-Enter the amount: 100
-Convert from: USD
-Convert to: INR
+- Enter the amount: 100
+- Convert from: USD
+- Convert to: INR
 
-Current exchange rate: 1 USD = 86.8044 INR
-100.0 USD = 8680.44 INR
+- Current exchange rate: 1 USD = 86.8044 INR
+- 100.0 USD = 8680.44 INR
 
 ## Requirements:
 - Python 3.x
